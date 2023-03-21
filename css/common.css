@@ -25,6 +25,8 @@ button {
 
 /*styles for task #3 */
 .gallery{
+  margin: 0 auto;
+  padding: 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
